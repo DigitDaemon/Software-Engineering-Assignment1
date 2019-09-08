@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cul",["Property"],[["Culture",,[["tlandry_cs4800_Assignment1.Properties.Resources",,,,0,"File:tlandry_cs4800_Assignment1/tlandry_cs4800_Assignment1/Properties/Resources.Designer.cs:tlandry_cs4800_Assignment1.Properties.Resources.Culture","CSharpClass:tlandry_cs4800_Assignment1.Properties.Resources:Culture"]]]]);

@@ -1,0 +1,1 @@
+NDMenu.OnSectionLoaded("classes.js",[[1,"Form1"],[1,"Program"],[2,"Properties","CSharpClass:tlandry_cs4800_Assignment1.Properties.",[[1,"Resources"],[1,"Settings"]]]]);

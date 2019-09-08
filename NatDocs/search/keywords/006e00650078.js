@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("nex",["Variable"],[["nextOp",,[["tlandry_cs4800_Assignment1.Form1",,,,0,"File:tlandry_cs4800_Assignment1/tlandry_cs4800_Assignment1/Form1.cs:tlandry_cs4800_Assignment1.Form1.nextOp","CSharpClass:tlandry_cs4800_Assignment1.Form1:nextOp"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("set",["Class"],[["Settings",,[["tlandry_cs4800_Assignment1.Properties",,,,0,"File:tlandry_cs4800_Assignment1/tlandry_cs4800_Assignment1/Properties/Settings.Designer.cs:tlandry_cs4800_Assignment1.Properties.Settings","CSharpClass:tlandry_cs4800_Assignment1.Properties.Settings"]]]]);
